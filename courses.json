@@ -1,0 +1,71 @@
+[ {
+  "id" : 1,
+  "name" : "Java Basics",
+  "description" : "Learn core Java fundamentals",
+  "status" : "Not Started",
+  "target_date" : "2026-06-01",
+  "created_at" : "2026-05-07 10:31:34"
+}, {
+  "id" : 2,
+  "name" : "Spring Boot Mastery",
+  "description" : "Build REST APIs with Spring Boot",
+  "status" : "In Progress",
+  "target_date" : "2026-07-15",
+  "created_at" : "2026-05-07 10:31:42"
+}, {
+  "id" : 3,
+  "name" : "Python for Beginners",
+  "description" : "Learn Python basics from scratch",
+  "status" : "Completed",
+  "target_date" : "2026-05-20",
+  "created_at" : "2026-05-07 10:31:53"
+}, {
+  "id" : 4,
+  "name" : "Frontend Fundamentals",
+  "description" : "HTML, CSS, and JavaScript basics",
+  "status" : "Not Started",
+  "target_date" : "2026-08-10",
+  "created_at" : "2026-05-07 10:32:04"
+}, {
+  "id" : 5,
+  "name" : "Database Design",
+  "description" : "Learn relational database modeling",
+  "status" : "In Progress",
+  "target_date" : "2026-09-01",
+  "created_at" : "2026-05-07 10:32:14"
+}, {
+  "id" : 6,
+  "name" : "Data Structures",
+  "description" : "Learn arrays, lists, trees, graphs",
+  "status" : "Not Started",
+  "target_date" : "2026-10-05",
+  "created_at" : "2026-05-07 10:32:21"
+}, {
+  "id" : 7,
+  "name" : "Docker Essentials",
+  "description" : "Learn containerization basics",
+  "status" : "Completed",
+  "target_date" : "2026-07-30",
+  "created_at" : "2026-05-07 10:32:30"
+}, {
+  "id" : 8,
+  "name" : "System Design Basics",
+  "description" : "Introduction to scalable system design",
+  "status" : "In Progress",
+  "target_date" : "2026-11-12",
+  "created_at" : "2026-05-07 10:32:37"
+}, {
+  "id" : 9,
+  "name" : "Kotlin Essentials",
+  "description" : "Learn Kotlin for backend and Android",
+  "status" : "Not Started",
+  "target_date" : "2026-06-25",
+  "created_at" : "2026-05-07 10:32:48"
+}, {
+  "id" : 10,
+  "name" : "Microservices Architecture",
+  "description" : "Learn microservices with Spring Cloud",
+  "status" : "In Progress",
+  "target_date" : "2026-12-01",
+  "created_at" : "2026-05-07 10:32:55"
+} ]
