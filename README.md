@@ -61,7 +61,7 @@ src/main/java/com/codecrafthub/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/codecrafthub.git
+git clone git@github.com:dzung-min/codecrafthub.git
 ```
 
 ---
